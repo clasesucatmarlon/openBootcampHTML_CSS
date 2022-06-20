@@ -8,20 +8,19 @@
 
 2. El body debe contener un formulario que cumpla las siguientes características
 
-   - El atributo action será "/".
+   - El atributo action será "/"
 
    - Debe contener los siguientes campos:
 
-      - Un campo de texto llamado "nombre"
+     - Un campo de texto llamado "nombre"
 
-      - Un campo numérico llamado "edad"
+     - Un campo numérico llamado "edad"
 
-      - Un campo de área de texto llamado "frase-favorita"
+     - Un campo de área de texto llamado "frase-favorita"
 
-      - Un botón de envío
+     - Un botón de envío
 
-      - Un botón de reset
-
+     - Un botón de reset
 
 ## Task 2
 
@@ -34,4 +33,3 @@
    - Las columnas serán las siguientes: "Título", "Autor", "Año de publicación", "Enlace a Amazon"
 
    - Debe tener tres entradas, que corresponderán a tus tres libros favoritos
-
