@@ -8,7 +8,7 @@
 
 2. El body debe contener un formulario que cumpla las siguientes características
 
-   - El atributo action será "/"
+   - El atributo action será "/".
 
    - Debe contener los siguientes campos:
 
