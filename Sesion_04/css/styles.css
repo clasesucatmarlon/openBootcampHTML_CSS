@@ -1,0 +1,7 @@
+#item-1 {
+   color: red;
+}
+
+.buysList #item-1 {
+   font-size: 2rem;
+}
