@@ -1,3 +1,11 @@
 # Curso de HTML y CSS
 
-## Open Bootcamp
+## Tools
+
+### Estilos online:
+
+- https://purecss.io/
+
+### Paletas de colore:
+
+- https://coolors.co/
